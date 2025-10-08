@@ -1,4 +1,4 @@
-`'
+`
 GetCredentials/
 ├── docs
 │   ├── Clear-Credentials.md
@@ -10,4 +10,4 @@ GetCredentials/
 ├── GetCredentials.psm1
 ├── GetCredentials.txt
 └── Readme.md
-`'
+'
